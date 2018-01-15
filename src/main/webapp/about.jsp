@@ -59,7 +59,11 @@
 				<tr>
 					<td>
 					<label style="font-size: 16px; text-align: justify;font-family: Times New Roman;">
-						<span>Dr. Hema Kumari has specialized in the field of gynaecology and has served in women health, surgery and related problems. She earns the pride of having served in the states premier institution ie. Rajendra Institute of Medical Science, Ranchi.&nbsp;&nbsp;</span>
+						<span>
+						Dr. Hema Kumari has specialized in the field of gynaecology and has served in women health, surgery and related problems. 
+						She earns the pride of having served in the states premier institutions like. Rajendra Institute of Medical Science, Ranchi, A.H IVF & Infertility Research Centre , Ranchi&nbsp;
+						Currently she is VCH Ranchi visiting consultant.
+						</span>
 					</label>
 					<br/><br/>
 					</td>
